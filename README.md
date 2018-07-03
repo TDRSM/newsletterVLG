@@ -16,6 +16,9 @@
 ## Luc
 ![Maquette4](https://i.imgur.com/DcBuFaq.jpg "Maquette4")
 
+## Le Elies
+![Elies]('maquette\Kevin/img/elies.png')
+
 
 ## Layla
 ![Maquette5](https://i.imgur.com/GE5q7Ph.png "Maquette5")
@@ -38,3 +41,20 @@
 
 ## Jonathan
 
+
+## Sabuj
+![Maquette7](https://i.imgur.com/P6Hmyse.png "Maquette7")
+
+
+## Alpha
+![Maquette8](https://i.imgur.com/4Q4mVCK.jpg "Maquette8")
+
+
+## Boby
+![Maquette9](https://i.imgur.com/6djmj7J.png "Maquette9")
+
+## jhordan
+![Maquette10](https://i.imgur.com/Q3vsK1Z.png)
+
+## mohamed
+![Maquette11](https://i.imgur.com/UNr0HyC.png)
