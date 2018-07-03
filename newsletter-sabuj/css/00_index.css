@@ -1,0 +1,20 @@
+body{
+
+}
+div{
+    width: 650px;
+    border: 1px solid red;
+    margin: 0 auto;
+    height: auto;
+}
+ a{
+    margin-left: 290px;
+    white-space: pre;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.img{
+    margin-left: 218px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
