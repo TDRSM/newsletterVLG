@@ -1,0 +1,17 @@
+img{
+    height: 400px;
+    width: 400px;
+}
+
+table{
+    height: 100px;
+    width: 100px;
+    border: 6px solid #000;
+    background-color: snow;
+}
+inframe{
+    float: left;
+}
+body{
+    background-image: url(https://media0.giphy.com/media/3o85xnHXDgKM21daPm/200w.gif);
+}
