@@ -22,7 +22,7 @@
 
 
 ## Arnaud
-![Maquette6](https://i.imgur.com/6KpWx7r.png "Maquette6)
+![Maquette6](https://i.imgur.com/6KpWx7r.png "Maquette6")
 
 
 ## Sabuj
