@@ -16,6 +16,11 @@
 ## Luc
 ![Maquette4](https://i.imgur.com/DcBuFaq.jpg "Maquette4")
 
+<<<<<<< HEAD
+## Le Elies
+![Elies]('maquette\Kevin/img/elies.png')
+
+=======
 
 ## Layla
 ![Maquette5](https://i.imgur.com/GE5q7Ph.png "Maquette5")
@@ -35,3 +40,4 @@
 
 ## Boby
 ![Maquette9](https://i.imgur.com/6djmj7J.png "Maquette9")
+>>>>>>> momo
